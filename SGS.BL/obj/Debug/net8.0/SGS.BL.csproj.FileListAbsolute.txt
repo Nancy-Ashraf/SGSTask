@@ -1,0 +1,15 @@
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\bin\Debug\net8.0\SGS.BL.deps.json
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\bin\Debug\net8.0\SGS.BL.dll
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\bin\Debug\net8.0\SGS.BL.pdb
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.AssemblyInfoInputs.cache
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.AssemblyInfo.cs
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.csproj.CoreCompileInputs.cache
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.dll
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\refint\SGS.BL.dll
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.pdb
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\ref\SGS.BL.dll
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\bin\Debug\net8.0\SGS.DAL.dll
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\bin\Debug\net8.0\SGS.DAL.pdb
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.csproj.AssemblyReference.cache
+D:\iti\.NET\Cristine\.Net Core\SGSTask\SGS.BL\obj\Debug\net8.0\SGS.BL.csproj.CopyComplete

@@ -1,0 +1,48 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+.button-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 150px;
+    flex-direction: row; 
+    align-items: center;
+}
+
+.btn {
+    width: 100%;
+    color: white;
+    color: black;
+    margin-right: 10px; /* Adjust as needed */
+}
+
+.Cancel {
+    display: none;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
